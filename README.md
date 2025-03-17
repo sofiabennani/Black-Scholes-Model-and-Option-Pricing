@@ -1,2 +1,11 @@
 # Black-Scholes-Model-and-Option-Pricing
-Black-Scholes model for option pricing : Includes mathematical derivation, lognormal distribution analysis, and Python code using NumPy, Matplotlib, and SciPy for simulations and visualization. Ideal for those interested in financial mathematics and quantitative finance.
+
+This repository contains a Jupyter Notebook that explores the Black-Scholes model for option pricing. The notebook includes:
+
+- Mathematical derivation of the Black-Scholes model
+- Explanation of the lognormal distribution underlying asset prices
+- Step-by-step solutions to theoretical questions
+- Python code using NumPy, Matplotlib, SciPy, and NumPy.random for simulations and visualization
+
+The project is ideal for those interested in financial mathematics and quantitative finance.
+
