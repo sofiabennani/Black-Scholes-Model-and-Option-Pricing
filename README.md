@@ -9,3 +9,4 @@ This repository contains a Jupyter Notebook that explores the Black-Scholes mode
 
 The project is ideal for those interested in financial mathematics and quantitative finance.
 
+PS : The Notebook is currently available only in french and coded with python, I am working on the ENglish version. 
